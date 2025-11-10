@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CanaryTheBird
 - 👀 I’m interested in Yu-Gi-Oh, Maths and programming
-- 🌱 I’m currently learning C# and Lua
+- 🌱 I’m currently learning C#, Lua, and Python
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me IDK
+- 📫 How to reach me: Email: Roccodirienzo@gmail.com
